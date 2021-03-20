@@ -1,0 +1,7 @@
+# ignore.classpath, .project, *.jar
+
+.classpath
+.project
+*.jar
+/bin/
+!lib.jar
